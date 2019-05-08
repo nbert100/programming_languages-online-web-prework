@@ -11,13 +11,3 @@ end
 new_hash
 end
 
-languages = {
-  :oo => {
-    :ruby => {
-      :type => "interpreted"
-    },
-    :javascript => {
-      :type => "interpreted"
-    }
-  }
-}
