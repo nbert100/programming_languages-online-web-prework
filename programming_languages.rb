@@ -40,4 +40,5 @@ languages.each do |style, language|
     new_hash[name][:style] << style
   end
 end
-
+new_hash
+end
